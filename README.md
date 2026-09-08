@@ -22,19 +22,11 @@ The dashboard is designed to demonstrate practical skills in:
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive-summary.png)
-
 ### Sales Analysis
-
-![Sales Analysis](screenshots/sales-analysis.png)
 
 ### Product & Customer Analysis
 
-![Product & Customer Analysis](screenshots/product-customer-analysis.png)
-
 ### Profitability & Business Insights
-
-![Profitability & Business Insights](screenshots/profitability-insights.png)
 
 
 ## 🎯 Project Objectives
